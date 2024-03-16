@@ -2,9 +2,9 @@
   "ads": {
     "appid": "ca-app-pub-5979531842972879~1262196302",
     "banner": "ca-app-pub-5979531842972879/9118852635",
-    "dbstatus": "2",
+    "dbstatus": "1",
     "interstitial": "ca-app-pub-5979531842972879/7967205452",
-    "nativ": "",
-    "rewarded": ""
+    "nativ": "ca-app-pub-5979531842972879/8435279160",
+    "rewarded": "ca-app-pub-5979531842972879/5809115829"
   }
 }
