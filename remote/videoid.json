@@ -1,13 +1,16 @@
 {
   "videos": [
     {
-      "id": "xR_TKAIRWog"
+      "id": "xR_TKAIRWog",
+      "title": "Video 1 Title"
     },
     {
-      "id": "wJq_mqd_JQo"
+      "id": "wJq_mqd_JQo",
+      "title": "Video 2 Title"
     },
     {
-      "id": "DokW2e0ftqw"
+      "id": "DokW2e0ftqw",
+      "title": "Video 3 Title"
     }
   ]
 }
