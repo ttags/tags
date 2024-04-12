@@ -5,6 +5,7 @@
     "dbstatus": "1",
     "interstitial": "ca-app-pub-3940256099942544/1033173712",
     "nativ": "ca-app-pub-3940256099942544/2247696110",
-    "rewarded": "ca-app-pub-3940256099942544/5224354917"
+    "rewarded": "ca-app-pub-3940256099942544/5224354917",
+    "rewardType":"b"
   }
 }
