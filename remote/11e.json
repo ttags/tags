@@ -1,11 +1,11 @@
 {
   "ads": {
     "appid": "ca-app-pub-5979531842972879~1377197636",
-    "banner": "ca-app-pub-/8172602478",
+    "banner": "ca-app-pub-5979531842972879/8172602478",
     "dbstatus": "3",
     "interstitial": "ca-app-pub-5979531842972879/6859520809",
-    "nativ": "ca-app-pub-5979531842972879/9665488400",
+    "nativ": "ca-app-pub-/9665488400",
     "rewarded": "ca-app-pub-/9739258562",
-    "flags":"rcvnot-nat-rtb"
+    "flags":"rcvnot-ban-rtb"
   }
 }
