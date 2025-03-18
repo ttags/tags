@@ -1,14 +1,12 @@
-{
-  "keys": [
-    {
-      "license": "XYZ789demo",
-      "expires": "2025-03-22T23:59:59Z",
-      "activated": false
-    },
-    {
-      "license": "DEF456-GHI101",
-      "expires": "2025-05-22T12:00:00Z",
-      "activated": false
-    }
-  ]
-}
+[
+  {
+    "code": "ABC123",
+    "expires": "2025-12-31T23:59:59Z",
+    "used": false
+  },
+  {
+    "code": "XYZ789",
+    "expires": "2025-06-30T23:59:59Z",
+    "used": true
+  }
+]
