@@ -2,11 +2,13 @@
   "keys": [
     {
       "license": "XYZ789demo",
-      "expires": "2025-03-22T23:59:59Z"
+      "expires": "2025-03-22T23:59:59Z",
+      "activated": false
     },
     {
       "license": "DEF456-GHI101",
-      "expires": "2025-05-22T12:00:00Z"
+      "expires": "2025-05-22T12:00:00Z",
+      "activated": false
     }
   ]
 }
