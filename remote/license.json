@@ -1,12 +1,14 @@
-[
-  {
-    "code": "ABC123",
-    "expires": "2025-12-31T23:59:59Z",
-    "used": false
-  },
-  {
-    "code": "XYZ789",
-    "expires": "2025-06-30T23:59:59Z",
-    "used": true
-  }
-]
+{
+  "keys": [
+    {
+      "code": "ABC123",
+      "expires": "2025-12-31T23:59:59Z",
+      "used": false
+    },
+    {
+      "code": "XYZ789",
+      "expires": "2025-06-30T23:59:59Z",
+      "used": true
+    }
+  ]
+}
