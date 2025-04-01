@@ -18,7 +18,7 @@
            {
       "code": "m2at4bv19islive",
       "expires": "202505040000",
-      "used": true
+      "used": false
     },
     {
       "code": "m2at4bv199islive",
@@ -28,7 +28,7 @@
     {
       "code": "m2at4bv20islive",
       "expires": "202505040000",
-      "used": false
+      "used": true
     },
      {
       "code": "m2at4bv4islive",
