@@ -1,7 +1,7 @@
 {
   "keys": [
     {
-      "code": "t4bm-2aislive",
+      "code": "t4bm2aislive",
       "expires": "202509150000",
       "used": false
     },
@@ -22,8 +22,8 @@
     },
     {
       "code": "m2at4b",
-      "expires": "202505240000",
-      "used": true
+      "expires": "202509150000",
+      "used": false
     },
    {
       "code": "wcnp#kopxai",
