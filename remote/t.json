@@ -4,8 +4,10 @@
     "banner": "ca-app-pub-5979531842972879/5373183312",
     "dbstatus": "5",
     "interstitial": "ca-app-pub-5979531842972879/5811332868",
-    "nativ": "ca-app-pub-5979531842972879/4498251195",
+    "nativ": "ca-app-pub-3940256099942544/2247696110",
     "rewarded": "ca-app-pub-5979531842972879/8383010529",
-    "flags":"rcvnaXt-ban-rtb"
+    "ssAd": "ca-app-pub-3940256099942544/5224354917",
+    "adTime": "15000",
+    "flags":"rcvnat-bridgenat-contentban-int1enabled-int2enabled-rtb"
   }
 }
