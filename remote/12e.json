@@ -2,10 +2,12 @@
   "ads": {
     "appid": "ca-app-pub-5979531842972879~8450668601",
     "banner": "ca-app-pub-5979531842972879/1158501948",
-    "dbstatus": "9",
+    "dbstatus": "10",
     "interstitial": "ca-app-pub-5979531842972879/8587218214",
     "nativ": "ca-app-pub-5979531842972879/8435279160",
     "rewarded": "ca-app-pub-5979531842972879/1848643333",
-    "flags":"rcvnat-ban-rtb"
+    "ssAd": "ca-app-pub-5979531842972879/4748171746",
+    "adTime": "180000",
+    "flags":"rcvnaXt-bridgenat-contentbaXn-int1enabled-int2enabled-rtb"
   }
 }
