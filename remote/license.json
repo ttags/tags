@@ -26,9 +26,12 @@
       "used": false
     },
     {
-      "code": "m2at_4b",
-      "expires": "202509150000",
-      "used": false
+      "code": "t4bm2a",
+      "expires": "202609150000",
+      "used": false,
+      "is_liveclass": true,
+      "class_start_date": "2025-06-01",
+      "class_shifts": [8, 19]
     },
    {
       "code": "wcnp#kopxai",
